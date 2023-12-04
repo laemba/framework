@@ -1,0 +1,76 @@
+Introduction:
+=============
+To reduce the manual effort during regression
+To test app with mulitple set of data
+
+Types of applications:
+=====================
+Web applications:(selenium)
+Mobile apps:(Appium)
+Windows/Desktop applications : notepad, calculator (Robot,WinAppDriver)
+
+tools:-
+=====
+selenium,cypress,testcomplete,typescripting,UFT-- to automate webapplications
+Selenium can automate web applications only
+
+Why only selenium:
+==================
+open source
+free of cost
+supports mulitple promgramming languages
+supports mulitiple Operating systems
+supports mulitple browsers
+Many blocks to support 
+
+Loadrunner- performance
+Jmeter- performance
+
+What are the concepts needed for web application automation:
+=============================================================
+Basic java concepts
+Selenium concepts
+txt fileds,buttons,links,dropdowns, scroll,alerts,frames,checkboxes, radio buttons (WebElements)
+
+Prerequisties/Set up , we need to install below softwares
+===============================================
+Jdk- install
+JAVA_HOME
+Edit the path
+Eclipse/notepad/intellijide/Visual Studio- install-- editor 
+
+to install java
+==============
+https://www.oracle.com/java/technologies/downloads/
+
+Create java home:
+================
+search for "view advanced system setting" from your windows machine
+go to advance tab and click environment variables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
